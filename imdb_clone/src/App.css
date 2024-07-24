@@ -1,0 +1,10 @@
+.wish-bck{
+    background-image: url("./src/assets/images/white-bck.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.nav-bck{
+    background-image: url("./src/assets/images/nav-bck.jpg");
+    background-size: cover;
+}
